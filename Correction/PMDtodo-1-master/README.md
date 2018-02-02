@@ -1,5 +1,5 @@
 # PMDtodo
-Projet de cours basé sur le site todomvc.com
+Projet de cours basé sur le site todomvc.com.
 
 ## User stories
 Définition des actions de l'utilisateur :
@@ -46,4 +46,3 @@ Chaque tâche présente un bouton qui, au clic, permet de supprimer l'objet
 ### 4. Comment les tâches sont filtrées ?
 Je dois sélectionner tous les objets et n'afficher que ceux dont la propriété `state` est égale à `true` (ou `false`)
 - [ ] Créer une route `api` pour sélectionnher les tâches
-
