@@ -45,5 +45,5 @@ Chaque tâche présente un bouton qui, au clic, permet de supprimer l'objet
 
 ### 4. Comment les tâches sont filtrées ?
 Je dois sélectionner tous les objets et n'afficher que ceux dont la propriété `state` est égale à `true` (ou `false`)
-- [ ] Créer une route `api` pour sélectionnher les tâches
+- [ ] Créer une route `api` pour sélectionnher les tâches 
 
